@@ -10,7 +10,7 @@ Please note, your research questions should focus on *ONE* of these themes:
 
 Please ensure that you reference appropirate academic literature and ensure that the discussion incorporates appropriate reference to key engineering principles and practices. Apply what you have learned into your collaborative game.
 
-# What procedular generation algorithm Is best to use for puzzle generation?
+# What procedular generation algorithm Is best to use for 2d puzzle generation?
 
 
 
