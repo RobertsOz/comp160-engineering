@@ -10,7 +10,11 @@ Please note, your research questions should focus on *ONE* of these themes:
 
 Please ensure that you reference appropirate academic literature and ensure that the discussion incorporates appropriate reference to key engineering principles and practices. Apply what you have learned into your collaborative game.
 
-# Would adding procedural generation to your game increase sales?
+# What procedular generation algorithm Is best to use for puzzle generation?
+
+
+
+
 With this essay I would like to examine the benefits of adding procedural generation to your games. What are good and bad practices to adding procedural generation. And what is the community reaction to procedurally generated content. SomePeople say that generated content can never surpass hand designed levels and characters.
 
 Generation Next pt1-pt4
