@@ -1,4 +1,5 @@
-# COMP160 Software Engineering Essay
+
+http://ieeexplore.ieee.org/abstract/document/6557633/# COMP160 Software Engineering Essay
 Essay on the Software Engineering
 
 Please note, your research questions should focus on *ONE* of these themes:
@@ -32,3 +33,5 @@ http://link.springer.com/book/10.1007/978-3-319-42716-4
 
 http://dl.acm.org/citation.cfm?id=2001631
 http://dl.acm.org/citation.cfm?id=1814258
+Angry bots
+http://ieeexplore.ieee.org/abstract/document/6557633/
